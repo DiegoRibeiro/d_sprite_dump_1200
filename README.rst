@@ -1,4 +1,4 @@
-Tibia sprite dump 11+
+Tibia sprite dump 12
 ========================
 
 Python project to uncompress tibia assets from client version 11+
