@@ -9,7 +9,7 @@ make init
 
 running
 
-python .\main.py 'C:\path\to\assets'
+python .\\main.py 'C:\\path\\to\\assets'
 
 i have only tested under windows 10
 
