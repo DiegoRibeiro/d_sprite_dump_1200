@@ -6,11 +6,11 @@ Python 3 project to uncompress tibia assets from client version 12, could work o
 How to run:
 ########
 1. clone the project
-2. open a terminal inside the folder d-sprite-dump-12
+2. open a terminal inside the folder d_sprite_dump_1200
 3. python .\\main.py 'C:\\path\\to\\assets'
 4. the assets will be created inside the output folder
 
-note: for linux you have to fix the \\ to / inside the script, i haven't test this on a linux distro. This will be improved over time.
+note: for linux you have to fix the \\\\ to / inside the script, i haven't test this on a linux distro. This will be improved over time.
 ---------------
 
 
