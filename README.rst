@@ -10,7 +10,7 @@ How to run:
 3. python .\\main.py 'C:\\path\\to\\assets'
 4. the assets will be created inside the output folder
 
-note: for linux you have to fix the \\\\ to / inside the script, i haven't test this on a linux distro. This will be improved over time.
+note: for linux you have to fix the \\\\ to / inside the script catalog_util.py, i haven't test this on a linux distro. This will be improved over time.
 ---------------
 
 
