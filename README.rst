@@ -1,18 +1,16 @@
 Tibia sprite dump 12
 ========================
 
-Python project to uncompress tibia assets from client version 12
+Python project to uncompress tibia assets from client version 12, could work on other versions.
 
-Installing dependencies
+How to run:
+########
+1. clone the project
+2. open a terminal inside the folder d-sprite-dump-12
+3. python .\\main.py 'C:\\path\\to\\assets'
+4. the assets will be created inside the output folder
 
-make init
-
-running
-
-python .\\main.py 'C:\\path\\to\\assets'
-
-i have only tested under windows 10
-
+note: for linux you have to fix the \\ to / inside the script, i haven't test this on a linux distro. This will be improved over time.
 ---------------
 
 
